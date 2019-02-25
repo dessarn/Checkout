@@ -7,3 +7,12 @@ C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\
 C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.csproj.CoreCompileInputs.cache
 C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.exe
 C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.pdb
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\bin\Release\SuperMarketBasket.exe.config
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\bin\Release\SuperMarketBasket.exe
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\bin\Release\SuperMarketBasket.pdb
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.csprojAssemblyReference.cache
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.Properties.Resources.resources
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.csproj.GenerateResource.cache
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.csproj.CoreCompileInputs.cache
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.exe
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\SuperMarketBasket\obj\Release\SuperMarketBasket.pdb

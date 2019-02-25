@@ -9,3 +9,14 @@ C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\
 C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.csproj.CopyComplete
 C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.exe
 C:\Users\andy_\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.pdb
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\bin\Release\Scanner.exe.config
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\bin\Release\Scanner.exe
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\bin\Release\Scanner.pdb
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\bin\Release\SuperMarketBasket.exe
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\bin\Release\SuperMarketBasket.pdb
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\bin\Release\SuperMarketBasket.exe.config
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.csprojAssemblyReference.cache
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.csproj.CopyComplete
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.exe
+C:\Users\andrew.brewster\OneDrive\Documents\Visual Studio 2017\Projects\SuperMarketBasket\Scanner\obj\Release\Scanner.pdb
